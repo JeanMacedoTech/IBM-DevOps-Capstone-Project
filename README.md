@@ -15,7 +15,7 @@ The application code was written following Test and Behavior-driven Development 
 
 Application's technical debt and enhancements were managed with a ZenHub's Kanban board, following good Agile Development philosophy and SCRUM methodology.
 
-GitHub Actions were used for the automation of the CI workflow on commit to Main or Pull Requests.
+Git Actions were used for the automation of the CI workflow on commit to Main or Pull Requests.
 
 Tekton CD and an OpenShift Pipeline were used for the automation of the CD workflow, deploying the newly built Docker image to the OpenShift cluster inside the IBM Cloud.
 
